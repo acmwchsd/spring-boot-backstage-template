@@ -1,4 +1,4 @@
-package __packagePath__;
+package com.test.kompot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
